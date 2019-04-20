@@ -18,7 +18,7 @@ def times_iterator(number_of_times)
   end
 end
 
-def while_iterator(7)
+def while_iterator(number_of_times)
   counter=0
   phrase = "Welcome to Flatiron School's Web Development Course!"
   while counter<7
